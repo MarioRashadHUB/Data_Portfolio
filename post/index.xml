@@ -14,16 +14,19 @@
     <item>
       <title>Project 3: BMW N54 Maintenance Application</title>
       <link>https://mariorashadhub.github.io/Data_Portfolio/post/chapter-3/</link>
-      <pubDate>Thu, 03 Dec 2020 11:00:59 -0400</pubDate>
+      <pubDate>Sat, 16 Apr 2022 11:00:59 -0400</pubDate>
       
       <guid>https://mariorashadhub.github.io/Data_Portfolio/post/chapter-3/</guid>
-      <description></description>
+      <description>● Developed a web application for current and potential BMW N54 car owners to give a quick estimation of potential maintance costs.
+● Estimations were created through research on various popular BMW enthuasist websites such as N54Tech, e90Post, bmwtuning.co and FCP Euro.
+● Engineered features in the application to allow customization by the user to select options that reflect their vehicle for more personalized results.
+● Deployed application using Streamlit</description>
     </item>
     
     <item>
       <title>Project 2: Software Engineer Salary Web Application</title>
       <link>https://mariorashadhub.github.io/Data_Portfolio/post/chapter-2/</link>
-      <pubDate>Wed, 01 Jul 2020 11:00:59 -0400</pubDate>
+      <pubDate>Wed, 12 Jan 2022 11:00:59 -0400</pubDate>
       
       <guid>https://mariorashadhub.github.io/Data_Portfolio/post/chapter-2/</guid>
       <description>● Developed a web application for software engineers to get a general idea of how much they can potentially make in the United States with their level of knowledge.
